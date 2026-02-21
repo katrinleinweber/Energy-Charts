@@ -11,7 +11,7 @@ from typing import Any
 
 import requests
 
-from app.enums import (
+from energy_charts.enums import (
     BindingZones,
     Countries,
     Endpoints,

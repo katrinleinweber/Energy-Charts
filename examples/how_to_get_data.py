@@ -4,9 +4,9 @@ This script demonstrates how to fetch installed power data from the
 Energy Charts API and transform it into a structured pandas DataFrame.
 """
 
-from app.api import EnergyChartsAPI
-from app.enums import Countries
-from app.parser import make_dataframe
+from energy_charts.api import EnergyChartsAPI
+from energy_charts.enums import Countries
+from energy_charts.parser import make_dataframe
 
 if __name__ == "__main__":
     # Create an instance of the API accessor
