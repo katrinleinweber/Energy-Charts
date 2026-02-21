@@ -3,8 +3,8 @@ name = "Energy-Charts"
 version = "1.1.0"
 description = "Module to access the API of the energy-charts.info website."
 authors = [
-    { name = "Alexander Blinn" },
-    { name = "hosenchef" },
+    "Alexander Blinn",
+    "hosenchef"
     ]
 readme = "README.md"
 
